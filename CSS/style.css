@@ -1,0 +1,33 @@
+
+
+
+p,h3{
+color:rgb(0, 47, 255) ;
+}
+p > strong,i{
+    color: yellowgreen;
+}
+
+.clr-2{
+    color: rgb(255, 153, 0)
+}
+
+.clr-1{
+    color:blue
+}
+
+.box{
+    background-color: blue;
+    width:400px;
+    height: 300px;
+    padding: 20px;
+    margin: 10px; 
+    border: 10px solid pink;
+    text-align: center;
+
+}
+
+.box- position {
+    display: flex;
+    justify-content: center;
+}
